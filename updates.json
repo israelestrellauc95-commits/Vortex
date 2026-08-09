@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "vortex@mid1.amazon.com": {
+      "updates": [
+        {
+          "version": "2.2",
+          "update_link": "https://addons.mozilla.org/firefox/downloads/file/5c9d8e2f462f4c0a9d8b/vortex-2.2.xpi"
+        }
+      ]
+    }
+  }
+}
